@@ -1,2 +1,3 @@
 registracia uzivatela funkcionalita
 registracia admin pouzivatela
+new feature
